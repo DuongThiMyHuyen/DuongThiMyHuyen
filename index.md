@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![Hinh](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLjvzh-4zhAhUFFYgKHW-sCMgQjRx6BAgBEAU&url=http%3A%2F%2Fphanmemsaigon.net%2Flam-the-nao-de-tang-hieu-qua-sms-marketing%2F&psig=AOvVaw1PR1PM-0FG77DlizWWmX5N&ust=1553042340166278)
+
 - Bulleted
 - List
 
@@ -23,7 +25,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
