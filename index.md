@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Xin Chào
 
-You can use the [editor on GitHub](https://github.com/DuongThiMyHuyen/Git111/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể vào Google (https://www.google.com).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
